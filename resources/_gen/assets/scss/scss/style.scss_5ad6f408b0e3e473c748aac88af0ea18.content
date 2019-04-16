@@ -103,12 +103,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #1de9b6;
+  color: #1A4799;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #7af2d4;
+    color: #3b75de;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -281,12 +281,12 @@ template {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #1de9b6 !important; }
+  background-color: #1A4799 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #13c095 !important; }
+  background-color: #13336d !important; }
 
 .bg-secondary {
   background-color: #ffca28 !important; }
@@ -381,7 +381,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #1de9b6 !important; }
+  border-color: #1A4799 !important; }
 
 .border-secondary {
   border-color: #ffca28 !important; }
@@ -4361,10 +4361,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #1de9b6 !important; }
+  color: #1A4799 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #13c095 !important; }
+  color: #13336d !important; }
 
 .text-secondary {
   color: #ffca28 !important; }
@@ -5053,13 +5053,13 @@ a.text-dark:hover, a.text-dark:focus {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #c0f9eb; }
+  background-color: #bfcbe2; }
 
 .table-hover .table-primary:hover {
-  background-color: #a9f7e4; }
+  background-color: #adbdda; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #a9f7e4; }
+    background-color: #adbdda; }
 
 .table-secondary,
 .table-secondary > th,
@@ -5265,7 +5265,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #1de9b6;
+    background-color: #1A4799;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5592,7 +5592,7 @@ p {
     flex: 1; }
 
 .header {
-  color: #1de9b6;
+  color: #1A4799;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5771,16 +5771,16 @@ p {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #1de9b6; }
+        color: #1A4799; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline;
-          color: #1de9b6; }
+          color: #1A4799; }
       .main-menu > ul > li.active > a {
         font-weight: bold; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #1de9b6;
+  background: #1A4799;
   top: 0;
   left: 0;
   width: 100%;
@@ -5866,15 +5866,16 @@ p {
     font-size: 0.9rem;
     line-height: 1.4;
     font-weight: 400;
-    margin: 0;
     padding: 4px 0 4px 0; }
     .docs-menu ul li.active a {
-      color: #4beec5;
+      color: #215bc5;
       font-weight: 400; }
+    .docs-menu ul li.subpage {
+      margin-left: 10px; }
     .docs-menu ul li a {
       color: #212529; }
       .docs-menu ul li a:hover {
-        color: #1de9b6; }
+        color: #1A4799; }
 
 .hamburger {
   padding: 10px 0 10px 10px;
@@ -5889,7 +5890,7 @@ p {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #1de9b6; }
+    background: #1A4799; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5901,17 +5902,17 @@ p {
   white-space: nowrap;
   display: inline-block;
   padding: 8px 15px 6px 15px;
-  background: #1de9b6;
+  background: #1A4799;
   font-weight: normal;
   text-transform: uppercase;
-  color: white;
+  color: #bed1f4;
   text-decoration: none;
   -webkit-transition: all 0.15s ease;
   transition: all 0.15s ease;
   border-radius: 3px; }
   .button:hover {
     color: #fff;
-    background-color: #4beec5;
+    background-color: #215bc5;
     text-decoration: none; }
 
 .button-white {
@@ -6069,13 +6070,13 @@ p {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #1de9b6, #ffca28); }
+  background-image: linear-gradient(to right, #1A4799, #ffca28); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #1de9b6, #ffca28); }
+  background-image: linear-gradient(to bottom, #1A4799, #ffca28); }
 
 .strip-primary {
-  background-color: #1de9b6; }
+  background-color: #1A4799; }
 
 .strip-secondary {
   background-color: #ffca28; }
