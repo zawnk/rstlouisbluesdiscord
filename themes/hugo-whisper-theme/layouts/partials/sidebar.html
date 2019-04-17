@@ -3,10 +3,12 @@
   <h4>{{ .Section | humanize }}</h4>
   <ul>
     {{ range (after 1 (where .Site.Pages "Section" "!=" nil)) (sort .Site.Pages ".Weight") }}
+    {{ if ne .File.UniqueID "3976528693a0108357f4928017600865" }}
     <li
       class="{{ if eq .File.UniqueID $currentNode.File.UniqueID }}active {{ end }}{{ if .Params.hasParent }}subpage {{ end }}">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
+    {{ end }}
     {{ end }}
   </ul>
 </div>

@@ -24,7 +24,7 @@ pygmentsUseClasses = true
   homepage_button_link = '/info'
   homepage_button_text = 'Read More'
   homepage_intro = 'This is the home of the r/stlouisblues Discord. Here you can find rules and additional info.'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = '/images/discord.png'
 
   [params.homepage_meta_tags]
     meta_description = "This is the home of the r/stlouisblues Discord."

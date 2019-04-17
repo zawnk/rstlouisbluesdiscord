@@ -1,12 +1,12 @@
 ---
-title: 'Channels'
+title: 'Rules'
 hasParent: false
 date: 2019-02-11T19:30:08+10:00
 draft: false
-weight: 2
+weight: 1
 ---
 
-## Syntax Highlighting
+## Yoo
 
 Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
 
