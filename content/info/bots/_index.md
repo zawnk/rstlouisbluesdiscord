@@ -6,48 +6,11 @@ draft: false
 weight: 20
 ---
 
-## Syntax Highlighting
+## General Bot Info
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+The server has two bots that are at your service for various tasks. Both have very different tasks:
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
+- [nhlbot](nhlbot): Serves hockey statistics about players and teams, informs you about players and the schedule and can even remind you of games. Reacts to `!` commands
+- [Bot](bot): An all-purpose bot that is mainly used for random gifs and some mini-games (yes, that's its name :grinning:). Reacts to `?` commands
 
-````
-```
-insert code here
-```
-````
-
-You can specify the langauge by adding a declaration after the backticks
-
-````
-```javascript
-insert code here
-```
-````
-
-### Pygments Options
-
-The following code highlighting options are configured in the `config.toml`
-
-```toml
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
-```
-
-## Main menu
-
-Configure the main menu by editing the `config.toml`
-
-```toml
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Docs"
-url = "/docs/"
-weight = 2
-```
+Both bots come with a help command (either `!help` for nhlbot or `?help` for Bot). For some details regarding the commands, check the pages for the bots or just dive into the bot help in Discord.

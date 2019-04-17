@@ -6,14 +6,8 @@ draft: false
 weight: 3
 ---
 
-## Syntax Highlighting
+## Usage
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+The channel name gives it all away, this is just a catch-all channel. Off-topic discussions are okay, but please make sure to not spam too much. Also, be aware that this is at its core still a hockey server, so if there's a lively discussion going on about hockey, what you ate for lunch yesterday might not be important to other people right now. Don't force this info upon them. 
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
-
-````
-```
-insert code here
-```
-````
+In addition, make sure to check the channel pins occasionally, new infos and updates are generally shared and pinned in this channel. 

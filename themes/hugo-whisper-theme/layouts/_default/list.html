@@ -9,8 +9,12 @@
   {{ .Content }}
 </div>
 
-{{ range.Pages }}
+{{ if eq .Name "Info" }}
+{{ range .Site.Pages }}
+{{ if (and (not .Params.hasParent) (and (ne .Title "r/stlouisblues Discord") (ne .Title "Info"))) }}
 {{ .Render "summary" }}
+{{ end }}
+{{ end }}
 {{ end }}
 
 {{ end }}

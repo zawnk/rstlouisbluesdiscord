@@ -6,14 +6,8 @@ draft: false
 weight: 6
 ---
 
-## Syntax Highlighting
+## Usage
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+Feel free to share all the interesting news from the gaming world in here. We have plenty of PC and console users that are avid gamers. You can also use this channel to find some people for your party to play with you. We have some voice channels that you can use for this occasion. 
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
-
-````
-```
-insert code here
-```
-````
+There's also some conversations going on during big e-sports events of popular games, be it Dota 2's The International or some CS:GO Majors.

@@ -6,14 +6,8 @@ draft: false
 weight: 11
 ---
 
-## Syntax Highlighting
+## Usage
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+If some big player in the league is traded, this will be channel to find this information first. We also have some members that are well informed about prospects so you might also find tidbits about that here and there. 
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
-
-````
-```
-insert code here
-```
-````
+All the talk about drafts, cap hits, rookies - especially during the off-season - generally takes place in here. 

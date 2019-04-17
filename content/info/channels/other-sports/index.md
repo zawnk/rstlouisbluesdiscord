@@ -6,14 +6,8 @@ draft: false
 weight: 5
 ---
 
-## Syntax Highlighting
+## Usage
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+The users of the Discord server are fans of all kinds of sports. Whether it is MLS, NFL, MLB, Formula 1, Nascar, Boxing, UFC or whatever you can think of, there's most likely someone else on the server enjoying this sport. 
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
-
-````
-```
-insert code here
-```
-````
+Feel free to share information about your favourite sport's events - maybe you can make some new fans that share your passion with you.

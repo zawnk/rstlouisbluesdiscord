@@ -4,6 +4,7 @@ title = "r/stlouisblues Discord"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
