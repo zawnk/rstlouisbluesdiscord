@@ -12,6 +12,10 @@ The bot Bot :smirk: is a general all-purpose bot and reacts to all commands star
 
 ## Notable Commands
 
+#### `?help`
+
+The most important command comes first: with `?help` the bot sends you all commands that are available with a short description via pm. Everything that you can read there will also be included in the help but with less details and without examples.
+
 #### `?wiki <term>`
 
 This one, as you would've guessed, just looks up the word on Wikipedia and shows a brief snippet and link to the article. 
