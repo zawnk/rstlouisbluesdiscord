@@ -33,8 +33,13 @@ Similar to the before-mentioned command, but instead of always yielding the same
 Pastes a link to the Google search with the term that you can click (you lazy bum).
 
 #### `?remindme X (seconds|minutes|days) <text>`
+
 The bot will remember what you told him with your text and will remind you in the given period of time of what you told him. An example is: `?remindme 5 minutes tea done`
+
+#### `?role (apply|relieve) <role name>`
+
+For specific occasions, the moderators add temporary, cosmetic roles that are pingable. This is generally helpful when you're organizing events like the fantasy leagues. The moderators then create a group for a fantasy league, so it's easy to contact the peers with due to the assigned roles. You can freely assign yourself such a role with `?role apply <role name>` or get rid of it via `?role relieve <role name>`. When such roles with specific purposes are created, the mods announce it in the appropriate channel.
 
 ## Ideas and Feedback
 
-If you have any suggestions for improving or extending the bot, 
+If you have any suggestions for improving or extending the bot, feel free to contact `zonk` with your ideas! Same goes for issues with the bot.
