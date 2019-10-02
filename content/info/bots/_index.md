@@ -3,7 +3,7 @@ title: 'Bots'
 date: 2019-02-11T19:30:08+10:00
 hasParent: false
 draft: false
-weight: 20
+weight: 30
 ---
 
 ## General Bot Info

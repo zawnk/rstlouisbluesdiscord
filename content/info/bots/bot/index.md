@@ -3,12 +3,12 @@ title: 'Bot'
 date: 2019-02-11T19:30:08+10:00
 hasParent: true
 draft: false
-weight: 22
+weight: 32
 ---
 
 ## Purpose
 
-The bot Bot :smirk: is a general all-purpose bot and reacts to all commands starting with `?`. Its functionality is completely unrelated to hockey. The bot is a self hosted instance of [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot). If you ever run into issues, feel free to contact `zonk`.
+The bot Bot :smirk: is an ancient general all-purpose bot and reacts to all commands starting with `?`. Its functionality is completely unrelated to hockey. The bot is a self hosted instance of [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot). If you ever run into issues, feel free to contact `zonk`.
 
 ## Notable Commands
 

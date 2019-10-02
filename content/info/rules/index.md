@@ -38,7 +38,7 @@ Here's a list of additional rules which are linked to specific channels on the s
 
 - All discussion about an on-going Blues game are to be contained in [#gameday-chat](../channels/gameday-chat). The server has to be usable by users who're not able to watch the games live **until the next day** (And that means when you get up, not one minute after midnight. Remember: [don't be a jerk](#dont-be-a-jerk))
 
-- The server's [bots](../bots) on the server have several fun functions that can be spammed. If there's a discussion on-going in the channel, please take the time and execute those commands in [#botstuff](../channels/botstuff)
+- The server's [bots](../bots) have several fun functions that can be spammed. Please take the time and execute those commands in [#spam](../channels/spam)
 
 - The [#media](../channels/media) channel is there to discuss on-going and upcoming movies and series. This means, spoilers also belong there. If you're talking about already aired stuff, no spoilers are necessary. If material is leaked of *upcoming* movies/series, spoiler tags are **mandatory** (you can do them with double pipes, e.g. `||here goes the hidden text||`)
 
