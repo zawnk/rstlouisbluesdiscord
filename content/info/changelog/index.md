@@ -6,7 +6,7 @@ draft: false
 weight: 999
 ---
 
-## Changelog
+## Latest changes
 
 **October 2019**:
 
