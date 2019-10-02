@@ -14,4 +14,4 @@ In addition to that, if you're having a longer off-topic conversation or engagin
 
 This is also the only channel in which you can share your memes and other images as it is the only channel that allows file attachments. 
 
-**Important note**: Even though the channel is marked as NSFW, no actual content that is against the [../../rules/#dont-be-a-jerk](Golden Rule) can be shared in here. This includes but is not limited to 18+, sexist, political or racist content. Failure to follow this simple rule will result in [a ban](../../rules/#consequences).
+**Important note**: Even though the channel is marked as NSFW, no actual content that is against the [Golden Rule](../../rules/#dont-be-a-jerk) can be shared in here. This includes but is not limited to 18+, sexist, political or racist content. Failure to follow this simple rule will result in [a ban](../../rules/#consequences).
