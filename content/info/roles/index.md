@@ -8,8 +8,10 @@ weight: 20
 
 ## Server Roles
 
-As you may have noticed, certain users have a yellow or blue user name. Users with a colored name belong to either of these two groups:
+As you may have noticed, certain users have a yellow, blue or even a red user name. Users with a colored name belong to one of these groups:
 
 - <font color="#F1C40F">Discord mods</font>: These users are your first priority when you have questions or suggestions for the Discord server. They are in control of the server and can mute people, delete their messages or even ban people
 
-- <font color="#3498DB">Reddit mods</font>: Some of the [subreddit's moderators](https://www.reddit.com/r/stlouisblues/about/moderators) are also active on the Discord. In general it's easier to contact them on reddit or via modmail, but if you see one hanging around, you might contact them with questions about the subreddit or similar.
+- <font color="#3498DB">Reddit mods</font>: Some of the [subreddit's moderators](https://www.reddit.com/r/stlouisblues/about/moderators) are also active on the Discord. In general it's easier to contact them on reddit or via modmail, but if you see one hanging around, you might contact them with questions about the subreddit or similar
+
+- <font color="#E1483B">Muted users</font>: If a user misbehaves and is for example disturbing on-going talks with spam or 1on1 off-topic discussions, they will be muted. Not every behavior requires bans or other harsh actions and a temporary timeout is oftentimes enough. Muted users can not participate in any way in the chat other than reading it.

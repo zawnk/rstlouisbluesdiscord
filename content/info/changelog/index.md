@@ -8,6 +8,17 @@ weight: 999
 
 ## Latest changes
 
+**February 2020**:
+
+- Added muted role to the `Roles` overview
+
+- Clarified division between hockey and offtopic chat in `Channels`
+
+- Added `#hockey-chat` to the channels and sorted list
+
+- Updated `#general` description to make it purely offtopic
+
+
 **October 2019**:
 
 - Added `Changelog` page to list all changes since the last time
