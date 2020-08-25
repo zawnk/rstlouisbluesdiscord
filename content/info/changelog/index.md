@@ -10,7 +10,7 @@ weight: 999
 
 **August 2020**:
 
-- Renamed the <font color="#E1483B">muted</font> role to <font color="#E1483B">Goons</font>
+- Renamed the <font color="#E1483B">muted</font> role to <font color="#E1483B">Goon</font>
 
 - Added the <font color="#ff66ff">Season Ticket Holder</font> role to the [role overview](../roles)
 
