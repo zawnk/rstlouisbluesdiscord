@@ -8,6 +8,18 @@ weight: 999
 
 ## Latest changes
 
+**August 2020**:
+
+- Renamed the <font color="#E1483B">muted</font> role to <font color="#E1483B">Goons</font>
+
+- Added the <font color="#ff66ff">Season Ticket Holder</font> role to the [role overview](../roles)
+
+- Removed references to `nhlbot` which is soon to be deprecated. May it rest in peace ⚰️
+
+- Hoisted the `Bot` subpage to the first level
+
+- Added the `leveler` and `hockey` commands subpages to `Bot`
+
 **February 2020**:
 
 - Added muted role to the `Roles` overview
