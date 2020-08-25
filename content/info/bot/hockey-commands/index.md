@@ -3,7 +3,7 @@ title: 'Hockey Commands'
 date: 2019-02-11T19:30:08+10:00
 hasParent: true
 draft: false
-weight: 1
+weight: 31
 ---
 
 ## List of hockey-related commands

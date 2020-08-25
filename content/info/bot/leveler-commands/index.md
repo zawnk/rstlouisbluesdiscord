@@ -3,7 +3,7 @@ title: 'Leveler Commands'
 date: 2019-02-11T19:30:08+10:00
 hasParent: true
 draft: false
-weight: 2
+weight: 32
 ---
 
 ## Intro
