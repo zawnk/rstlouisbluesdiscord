@@ -8,7 +8,7 @@ weight: 30
 
 ## General Bot Info
 
-The bot Bot :smirk: that's on this server is an ancient general all-purpose bot and reacts to all commands starting with `?`. Its functionality is fairly extensive and ranges from general purpose commands over fun commands to hockey-related commands. The bot is a self hosted instance of [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot). If you ever run into issues, feel free to contact `zonk`.
+The bot Bot :smirk: that is on this server is an ancient general all-purpose bot and reacts to all commands starting with `?`. Its functionality is fairly extensive and ranges from general purpose commands over fun commands to hockey-related commands. The bot is a self hosted instance of [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot). If you ever run into issues, feel free to contact `zonk`.
 
 The bot comes with a help command (`?help`, either via DM to bot or in [spam](../channels/spam)). In the following some general commands will be listed, while the sub pages will go into more detail of specific parts of the bot.
 
