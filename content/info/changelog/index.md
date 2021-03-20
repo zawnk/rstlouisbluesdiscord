@@ -8,6 +8,12 @@ weight: 999
 
 ## Latest changes
 
+**March 2021**:
+
+- Specified the zero tolerance rule regarding aggravating other teams' fans on their respective Discord server on the [rules page](../rules)
+
+- Fixed some minor spelling and linking errors
+
 **August 2020**:
 
 - Renamed the <font color="#E1483B">muted</font> role to <font color="#E1483B">Goon</font>
