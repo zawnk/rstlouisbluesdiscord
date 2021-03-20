@@ -20,7 +20,8 @@ The only rule that you have to follow on the Blues Discord channel is the so cal
 > * One should not treat others in ways that one would not like to be treated (negative or prohibitive form).
 > * What you wish upon others, you wish upon yourself (empathic or responsive form).
 
-In layman's terms this means: don't be a jerk. You should not be a jerk on the server. Neither to (a) specific (group of) people on the server, nor to other hockey fans on their respective Discord. If you're wondering and asking yourself if you're being a jerk in a specific situation, you're most likely being a jerk and should take a walk outside.
+In layman's terms this means: don't be a jerk. You should not be a jerk on the server. Neither to (a) specific (group of) people on the server, nor to other hockey fans on their respective Discord. We have a zero tolerance rule for the latter and if you get banned on any teams' server, you will also get banned on our server.  
+If you're wondering and asking yourself if you're being a jerk in a specific situation, you're most likely being a jerk and should take a walk outside.
 
 ### Examples <a name="examples"></a>
 
@@ -38,7 +39,7 @@ Here's a list of additional rules which are linked to specific channels on the s
 
 - All discussion about an on-going Blues game are to be contained in [#gameday-chat](../channels/gameday-chat). The server has to be usable by users who're not able to watch the games live **until the next day** (And that means when you get up, not one minute after midnight. Remember: [don't be a jerk](#dont-be-a-jerk))
 
-- The server's [bots](../bots) have several fun functions that can be spammed. Please take the time and execute those commands in [#spam](../channels/spam)
+- The server's [bot](../bot) has several fun functions that can be spammed. Please take the time and execute those commands in [#spam](../channels/spam)
 
 - The [#media](../channels/media) channel is there to discuss on-going and upcoming movies and series. This means, spoilers also belong there. If you're talking about already aired stuff, no spoilers are necessary. If material is leaked of *upcoming* movies/series, spoiler tags are **mandatory** (you can do them with double pipes, e.g. `||here goes the hidden text||`)
 
