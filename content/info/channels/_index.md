@@ -12,7 +12,7 @@ The amount of Discord channels is changing quite regularly and we are re-evaluat
 
 We're trying to keep the number of channels low, since we'd rather have a few active channels than a lot of channels of which half are barely used and people need to start hiding channels that they're not interested in.
 
-If you think a new channel for a specific purpose is necessary, feel free to suggest it to the Discord Mods and we can discuss it.
+If you think a new channel for a specific purpose is necessary, feel free to suggest it to the Discord Mods and we can discuss it. Oftentimes, a temporary [thread](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ) is sufficient and can be set up within minutes.
 
 The channels are divided into two categories: `hockey` and `offtopic`. While the former are primarily focusing on everything hockey, the latter is a catch-all for all the other topics that the user on the server like to talk about. Please note that every channel in the `hockey` category is moderated stricter than the rest of the server and punishment will be less lenient.
 

@@ -8,6 +8,12 @@ weight: 999
 
 ## Latest changes
 
+**June 2022**:
+
+- Phrased the Discord name and site information more general, since we have a large amount of non-reddit users on the server as well now
+
+- Added a sentence about Discord threads to the Channel overview
+
 **March 2021**:
 
 - Specified the zero tolerance rule regarding aggravating other teams' fans on their respective Discord server on the [rules page](../rules)

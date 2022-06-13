@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "r/stlouisblues Discord"
+title = "St. Louis Blues Fan Discord"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -24,15 +24,15 @@ pygmentsUseClasses = true
   google_analytics_id=""
   homepage_button_link = '/info'
   homepage_button_text = 'Read More'
-  homepage_intro = 'This is the home of the r/stlouisblues Discord. Here you can find rules and additional info.'
+  homepage_intro = 'This is the home of the St. Louis Blues Fan Discord. Here you can find rules and additional info.'
   homepage_image = '/images/discord.png'
 
   [params.homepage_meta_tags]
-    meta_description = "This is the home of the r/stlouisblues Discord."
-    meta_og_title = "r/stlouisblues Discord"
+    meta_description = "This is the home of the St. Louis Blues Fan Discord."
+    meta_og_title = "St. Louis Blues Fan Discord"
     meta_og_type = "website"
     meta_og_url = "https://rstlouisblues.netlify.com/"
-    meta_og_description = "This is the home of the r/stlouisblues Discord."
+    meta_og_description = "This is the home of the St. Louis Blues Fan Discord."
     meta_twitter_card = "summary"
 
   [params.logo]
